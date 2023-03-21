@@ -1,0 +1,129 @@
+.c
+{
+    
+    color: white;
+    display: flex;
+    margin-top:50px;
+    height: 500px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.footer{
+    margin-top: 100px;
+    float: left;
+    width: 100%;
+    position: relative;
+    background: rgb(54, 54, 54);
+  
+    
+}
+#i1{
+    height: 40px;
+    width:160px;
+   cursor: pointer;
+   
+   margin-top:-5px;
+   
+    
+}
+.e
+{
+    
+   
+   
+    width:33%;
+}
+
+#h {
+    margin-left: 200px;
+    
+}
+.g
+{
+    padding-left: 40px;
+    width: 33%;
+    margin-left: 100px;
+}
+.g h2{
+    font-size: 24px;
+    
+}
+.g p{
+    padding: 15px 0px;
+    line-height: 1;
+    color: rgb(199, 199, 199);
+    
+}
+.g1{
+    margin-top: 50px;
+}
+.loc{
+    line-height: 1.5;
+}
+.e ul{
+    margin-top: 50px;
+
+}
+.e ul li{
+    list-style: none;
+    padding: 12px 0px;
+    
+}
+.e ul li a{
+    text-decoration: none;
+    color: rgb(199, 199, 199);
+    margin-left: 200px;
+    
+}
+.e ul li a:hover {
+    color: #ffbd18;
+}
+.d{
+    width:400px;
+}
+.d h1{
+ font-size: 48px;
+ margin-top: 50px;
+
+} 
+.d p{
+    font-size:16px;
+    color: rgb(199, 199, 199);
+    line-height: 1.5;
+    margin-top:20px;
+}
+.cr{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.cr p{
+    color: rgb(199, 199, 199);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cr p a{
+    cursor: pointer;
+    padding: 20px;;
+
+
+}
+.crp{
+    margin-left: 700px;
+}
+.e  .fa-solid{
+    display: inline;
+    color: rgb(199, 199, 199);
+    margin-left: 10px;
+}
+.g .fa-solid{
+    display: inline;
+    color: rgb(199, 199, 199);
+    margin-right: 10px;
+
+}
+span{
+    padding-top: 20px;
+    margin-left: 24px;
+}
